@@ -1,1 +1,4 @@
-sfdfsdg
+url=oracle:jdbc:thin@localhost:1521:xe;
+driver=jdbc:oracle:driver:OracleDriver
+userName=bms;
+password=abc;
